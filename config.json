@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuecrypt",
+        "uuid": 8587168,
+        "checksum": "14kdyd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
